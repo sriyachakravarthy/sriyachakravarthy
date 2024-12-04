@@ -10,7 +10,7 @@ My name is Sriya
 
 📫 Let's connect: [Email](sriya.chakravarthy1999@gmail.com)
 
-### My Skills Include:
+### Skills
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0078D4?logo=python&logoColor=white)
 ![Explainable AI](https://img.shields.io/badge/Explainable_AI-F4D03F?logo=python&logoColor=black)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?logo=tensorflow&logoColor=white)
