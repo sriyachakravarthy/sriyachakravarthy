@@ -11,17 +11,17 @@ My name is Sriya
 📫 Let's connect: [Email](sriya.chakravarthy1999@gmail.com)
 
 ### My Skills Include:
-- **Machine Learning** ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0078D4?logo=python&logoColor=white)
-- **Explainable AI** ![Explainable AI](https://img.shields.io/badge/Explainable_AI-F4D03F?logo=python&logoColor=black)
-- **Deep Learning** ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?logo=tensorflow&logoColor=white)
-- **Data Science** ![Data Science](https://img.shields.io/badge/Data_Science-23A3F2?logo=python&logoColor=white)
-- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-- **TensorFlow** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-- **PyTorch** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-- **SHAP** ![SHAP](https://img.shields.io/badge/SHAP-FF4B5C?logo=python&logoColor=white)
-- **scikit-learn** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-- **Computational Biology** ![Computational Biology](https://img.shields.io/badge/Computational_Biology-00A1B4?logo=flask&logoColor=white)
-- **MATLAB** ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0078D4?logo=python&logoColor=white)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-F4D03F?logo=python&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-23A3F2?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF4B5C?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Computational Biology](https://img.shields.io/badge/Computational_Biology-00A1B4?logo=flask&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)
 
 I play badminton and journal when I am not coding 
 
