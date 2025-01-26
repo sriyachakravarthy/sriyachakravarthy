@@ -10,7 +10,7 @@ My name is Sriya
 
 📫 Let's connect: [Email](sriya.chakravarthy1999@gmail.com)
 
-Check my portfolio [here](https://sriyachakravarthy.github.io/)
+## Check my portfolio [here](https://sriyachakravarthy.github.io/)
 
 ### Skills
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0078D4?logo=python&logoColor=white)
